@@ -1,0 +1,13 @@
+table {
+	border: 1px solid black;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+.del {
+	display: none;
+}
+
+
